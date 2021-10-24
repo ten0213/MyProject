@@ -1,2 +1,5 @@
 # Dependency directories
-**/*.exe
+*.exe
+*.class
+*.dll
+
